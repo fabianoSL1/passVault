@@ -21,6 +21,7 @@
 .header {
     padding: 1rem;
     width: 100%;
+    height: 80px;
     border-bottom: 1px solid var(--color-border);
 }
 
